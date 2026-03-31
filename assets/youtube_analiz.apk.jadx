@@ -1,0 +1,18 @@
+{
+  "projectVersion": 2,
+  "files": [
+    "youtube_analiz.apk"
+  ],
+  "treeExpansionsV2": [],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [],
+  "cacheDir": "/home/alexanderanrutnewgate/.cache/jadx/projects/youtube_analiz-96a66665e81b8d3168e114006eafd5b3",
+  "enableLiveReload": false,
+  "searchHistory": [],
+  "searchResourcesFilter": "$TEXT",
+  "searchResourcesSizeLimit": 0,
+  "pluginOptions": {}
+}
