@@ -1,11 +1,4 @@
 # Android-Debug-Bridge-ADB-Analysis-Report
-
-# 📱 Advanced Android Forensic & ADB System Analysis
-> **Institution:** İstinye University  
-> **Department:** Information Security Technologies  
-> **Analyst:** Atahan  
-> **Date:** March 31, 2026
-
 ---
 
 ## 📑 Project Overview
